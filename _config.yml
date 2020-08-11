@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
+baseurl: ""
+url: "https://syagmur.github.io"
 title: Kinematic Optimization of an Underactuated Anthropomorphic Prosthetic Hand
 description: Serial port communication and real-time EMG classification code
