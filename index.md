@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: default
 title: Sezen Yagmur Gunay, PhD
