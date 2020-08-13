@@ -6,11 +6,11 @@ description: Serial port communication and real-time EMG classification code
 markdown: kramdown
 future: true
 
-name: Sezen Yagmur Gunay
-title: Sezen Yagmur Gunay
+name: Sezen Yağmur Günay
+title: Sezen Yağmur Günay
 subtitle:  PhD
 description: > # this means to ignore newlines until "baseurl:"
-     Website about Sezen Yagmur Gunay 
+     Website about Sezen Yağmur Günay 
      
      
 gems:
