@@ -8,9 +8,11 @@ title: Sezen Yağmur Günay, PhD
 <img src="./images/sf.jpg" alt="my_photo" hspace="10" style="float: left;" /> 
     Hello and welcome to my website! I received my BS degrees from Istanbul Technical University, Mathematical Engineering and Electronics Engineering with double major program and my MS degree from Computer Science and Engineering Department at Sabanci University. I am currently a PhD student in Cognitive Systems Lab in Northeastern University, Boston under the supervision of Deniz Erdogmus. My current research interests are biomedical signal processing, brain-computer interfaces (BCI), BCI for robotic hand prosthetics. 
     </p>
-
+<br>
  <a href="https://www.linkedin.com/in/syagmurgunay/"> Linkedin</a>
+<br>
  <a href="https://scholar.google.com/citations?user=YKkFxVsAAAAJ&hl=en&oi=ao"> Google scholar </a>
+<br>
  <a href="https://twitter.com/SezenYG"> Twitter </a>
  
     
