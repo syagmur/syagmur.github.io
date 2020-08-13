@@ -1,0 +1,164 @@
+body {
+	margin: 0;
+	color: $font-color;
+	font-family: $font-style;
+	font-size: 1.1em;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1 {
+	font-family: Rockwell, “Courier Bold”, Courier, Georgia, Times, “Times New Roman”, serif;
+	font-size: 2.5em;
+	text-decoration: none;
+}
+
+
+h11 {
+	font-family: Rockwell, “Courier Bold”, Courier, Georgia, Times, “Times New Roman”, serif;
+	font-size: 1.4em;
+	text-decoration: none;
+}
+
+header_rule,
+header_rule:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+header_rule:hover {
+	color: $link-hover-color;
+	text-decoration: underline;
+}
+
+
+
+
+h2,
+h3 {
+	font-weight: 600;
+	color: $heading-font-color;
+	font-family: $heading-font;
+	line-height: 1.5;
+}
+
+p{
+	text-align: justify;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+
+h4 {
+	font-weight: 600;
+        font-size: 1.0em;
+        color: black;
+	font-family: $heading-font;
+	line-height: 1.5;
+}
+h5 {
+	font-weight: 500;
+        font-size: 1.0em;
+	color: black;
+        font-style: italic;
+	font-family: $heading-font;
+	line-height: 1.5;
+}
+
+
+
+
+a,
+a:visited {
+	color: $link-color;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	color: $link-hover-color;
+	text-decoration: underline;
+}
+
+
+
+
+
+header {
+	background: $header;
+	background-repeat: no-repeat;
+        @include gradient($heading-font-color,#1d2126,vertical);
+	padding: 0px 15px;
+	text-align: center;
+	text-shadow: 3px 3px 3px #000;
+	margin: 50px 0 0;
+	height: 20vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+main {
+	padding: 0 15px;
+	max-width: $content-width;
+	margin: 0 auto;
+}
+time {
+	color: #898989;
+}
+.container {
+	max-width: $content-width;
+	margin: 0 auto;
+}
+
+/* Aside */
+
+aside {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #fff;
+	width: 100%;
+	z-index: 2;
+	border-bottom: 1px solid lighten($light, 30%);
+	box-shadow: 0px 1px 1px RGBA(25, 25, 54, .1);
+	nav {
+		float: left;
+		max-width: 800px;
+		margin: 0 auto;
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			li {
+				float: left;
+				position: relative;
+				a {
+					text-decoration: none;
+					display: block;
+					padding: 15px;
+					font-family: 'Muli', sans-serif;
+					line-height: 20px;
+					margin-bottom: -1px;
+					box-shadow: 0;
+					&:hover,
+					&:active {
+						//background: $header;
+						text-decoration: none;
+						color: $main;
+					}
+				}
+			}
+		}
+		&:after {
+			content: '';
+			display: table;
+			clear: both;
+		}
+	}
+}
+footer {
+	text-align: center;
+	padding: 40px;
+}
