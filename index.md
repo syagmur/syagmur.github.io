@@ -10,14 +10,9 @@ title: Sezen Yağmur Günay, PhD
     </p>
 
  <a href="https://www.linkedin.com/in/syagmurgunay/"> Linkedin</a>
-<br>
-    <br>
-    <a href="https://scholar.google.com/citations?user=YKkFxVsAAAAJ&hl=en&oi=ao"> Google scholar </a>
-      <br>
-    <a href="https://twitter.com/SezenYG"> Twitter </a>
-    
-
-
+ <a href="https://scholar.google.com/citations?user=YKkFxVsAAAAJ&hl=en&oi=ao"> Google scholar </a>
+ <a href="https://twitter.com/SezenYG"> Twitter </a>
+ 
     
 <br>
 <br>  
