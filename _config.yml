@@ -1,17 +1,12 @@
-theme: jekyll-theme-slate
-baseurl: ""
-url: "https://syagmur.github.io"
-title: Kinematic Optimization of an Underactuated Anthropomorphic Prosthetic Hand
-description: Serial port communication and real-time EMG classification code
-markdown: kramdown
-future: true
 
 name: Sezen Yağmur Günay
 title: Sezen Yağmur Günay
 subtitle:  PhD
 description: > # this means to ignore newlines until "baseurl:"
      Website about Sezen Yağmur Günay 
-     
+markdown: kramdown
+future: true
+
      
 gems:
     - jekyll-sitemap
@@ -19,3 +14,4 @@ gems:
     - jekyll-paginate
     - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
+google_analytics: UA-85988652-1
