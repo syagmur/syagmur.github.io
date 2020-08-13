@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sezen Yagmur Gunay, PhD
+title: Sezen Yağmur Günay, PhD
 ---
 
 <div class="blurb">
